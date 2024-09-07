@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "312757667625",
+    "firebase_url": "https://we-ride-people-default-rtdb.firebaseio.com",
+    "project_id": "we-ride-people",
+    "storage_bucket": "we-ride-people.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312757667625:android:e0a4b27cada5c56f279938",
+        "android_client_info": {
+          "package_name": "com.orbit.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdWJGtBsPrXE-IYSeadgUz9_fIobI19rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
